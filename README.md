@@ -12,3 +12,4 @@ Imie
 developer3
 Urodziny
 
+Ok to ja też coś dodam
